@@ -1,4 +1,5 @@
-simple streamlit app i made to get tags from danbooru and gelbooru, useful for constructing prompts for generating images
+# ✨ Booru Tags Fetcher (Streamlit Web App) 
+Get tags from Danbooru and Gelbooru, useful for constructing prompts for generating images
 
 Hosted on [Streamlit Cloud](https://boorutags.streamlit.app/)
 
