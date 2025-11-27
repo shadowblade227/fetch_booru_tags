@@ -13,7 +13,7 @@ Hosted on [Streamlit Cloud](https://boorutags.streamlit.app/)
     git clone https://github.com/shadowblade227/fetch_booru_tags.git
     cd fetch_booru_tags
     ```
-2.  **Create virtual environment:**
+2.  **Create virtual environment:**  
     Linux/macOS:  
     ```bash
     python -m venv venv
