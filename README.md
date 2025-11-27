@@ -14,12 +14,12 @@ Hosted on [Streamlit Cloud](https://boorutags.streamlit.app/)
     cd fetch_booru_tags
     ```
 2.  **Create virtual environment:**
-    Linux/macOS:
+    Linux/macOS:  
     ```bash
     python -m venv venv
     source venv/bin/activate
     ```
-    Windows:
+    Windows:  
     ```bash
     python -m venv venv
     venv\Scripts\activate
